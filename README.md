@@ -11,5 +11,5 @@ Used React's useState for state management and useEffect for localStorage persis
 # Challenges
 
 - **Re-render Optimization**: Solved with proper immutable state updates
--**localStorage Synchronization**: Implemented careful useEffect dependency management
+- **localStorage Synchronization**: Implemented careful useEffect dependency management
 Responsive Design: Created adaptive layouts for different screen sizes
