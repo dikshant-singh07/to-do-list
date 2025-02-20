@@ -7,3 +7,9 @@ I built this React To-Do List app using functional components and hooks. The arc
 - **AddTaskForm Component**: Manages user input for new tasks
 
 Used React's useState for state management and useEffect for localStorage persistence, ensuring data survives page refreshes.
+
+# Challenges
+
+- **Re-render Optimization**: Solved with proper immutable state updates
+-**localStorage Synchronization**: Implemented careful useEffect dependency management
+Responsive Design: Created adaptive layouts for different screen sizes
